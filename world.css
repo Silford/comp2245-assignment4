@@ -20,8 +20,19 @@ input {
   font-size: 15px;
 }
 
-button {
-  background-color: #0e7785;
+#lookup {
+  background-color: #26aec0;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+#lookup-cities {
+  background-color: #1d0361;
   color: white;
   border: none;
   padding: 10px;
